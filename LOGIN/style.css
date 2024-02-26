@@ -1,0 +1,31 @@
+.seccion-login{
+    background-color: rgb(43, 174, 226);
+    padding: 10px;
+}
+.formulario-login{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.input-username{
+    width: 50%;
+}
+.input-password{
+    width: 50%;
+
+}
+.titulo-login{
+    display: flex;
+    width: 50%;
+    justify-content: ;
+}
+.label-user{
+    display: flex;
+    width: 50%;
+
+}
+.password-label{
+     display: flex;
+     width: 50%;
+     justify-content: baseline;
+}
