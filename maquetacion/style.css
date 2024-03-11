@@ -1,0 +1,25 @@
+body{
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: row;
+    text-align: center;
+    border: solid black;
+    padding: 10px;
+}
+footer{
+    display: row;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+.grid-cointeiner{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    text-align: center;
+    height: 100vh;
+
+}
+.cub
